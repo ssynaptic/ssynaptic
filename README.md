@@ -1,5 +1,6 @@
-### Hi there 👋
+### S.S.Y.N.A.P.T.I.C
 
+Hello! I'm a software and web developer with a strong background in Python. While I also have knowledge in other languages, my primary focus is Python. I'm passionate about Linux operating systems and use Linux as my main operating system for both work and daily tasks. In my repositories, you'll find a variety of programs written in Python and some Bash scripts, primarily designed for Linux, although some are compatible with Windows. I hope you find my creations useful!
 <!--
 **ssynaptic/ssynaptic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
